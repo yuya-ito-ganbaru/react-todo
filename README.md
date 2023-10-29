@@ -44,3 +44,15 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## 日本語での補足
+READMEの作成を後回しにしてますのでReactの理解後に記述していく
+
+React学習のため作成
+
+'npm start' で開始
+'npx json-server --watch db.json --port 3100' でローカルで簡易的なRESTful APIサーバーを作成
+
+簡単なTODOリスト
+デザインはしておらず、機能のみを作成しております。
+手を動かしながらの学習教材
